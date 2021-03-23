@@ -16,7 +16,7 @@ The operator uses two 3×3 kernels which are convolved with the original image t
 ![alt text](https://github.com/zerospook/EdgeDet/blob/master/images/sobel.jpg "Formulation")
 
 ### Build:
-_to be updated later_
+main.exe input_file_name.pgm output.pgm
 
 ### How to use:
 _to be updated later_
